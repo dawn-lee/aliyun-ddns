@@ -1,0 +1,7 @@
+PyQt5
+aliyun-python-sdk-alidns
+aliyun-python-sdk-core
+requests
+Pillow
+pywin32; sys_platform == 'win32'
+PyInstaller 
